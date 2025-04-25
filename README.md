@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Supraja-KadaladiRamkumar/count.svg" alt="Visitor's Count" />
+</div>
+
+<img src="https://github.com/Supraja-KadaladiRamkumar/Supraja-KadaladiRamkumar/blob/main/Career%20Choices%and%New%Beginnings%20-%20Supraja.png">
+
+
 ![My Cool Career Transition Image](Career%20Choices%and%New%Beginnings%20-%20Supraja.png)
 
 <!--
