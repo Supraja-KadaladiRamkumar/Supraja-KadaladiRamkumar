@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![My Cool Career Transition Image](Career Choices and New Beginnings - Supraja.png)
+
 <!--
 **Supraja-KadaladiRamkumar/Supraja-KadaladiRamkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
