@@ -7,9 +7,6 @@
 
 <img src="https://github.com/Supraja-KadaladiRamkumar/Supraja-KadaladiRamkumar/blob/main/Career Choices and New Beginnings - Supraja.png">
 
-
-![My Cool Career Transition Image](Career%20Choices%and%New%Beginnings%20-%20Supraja.png)
-
 <!--
 **Supraja-KadaladiRamkumar/Supraja-KadaladiRamkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
