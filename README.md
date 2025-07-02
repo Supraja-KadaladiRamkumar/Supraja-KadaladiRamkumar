@@ -8,6 +8,8 @@ Hi, I'm Supraja – an Instrumentation & Control Engineer 🎓 who took a detour
 
 🔧 I'm currently focused on building hands-on projects in PLC programming and HMI design using **TwinCAT**, **RSLogix** and **CODESYS**, exploring control systems through code, logic, and a bit of visual flair 📊.
 
+🎓 Alongside, I'm completing Beckhoff’s official online certifications while applying the concepts in self-driven simulation projects 💡.
+
 🎯 Always learning, always building — more projects on the way!
 
 🌐 Languages: English, Tamil, German, a bit of Hindi
