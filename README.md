@@ -46,10 +46,7 @@ Whether you’re here to browse, brainstorm, or collaborate - welcome to my litt
   </a>
 ---
     
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Supraja-KadaladiRamkumar/count.svg" alt="Visitor's Count" />
-</div>
+
 
 <img src="https://github.com/Supraja-KadaladiRamkumar/Supraja-KadaladiRamkumar/blob/main/Career Choices and New Beginnings - Supraja.png">
 
