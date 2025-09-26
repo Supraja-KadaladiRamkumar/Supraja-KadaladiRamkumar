@@ -4,7 +4,7 @@
 
 🙋🏾‍♀️ _**About Me**_
 
-Hi, I'm Supraja – an Instrumentation & Control Engineer 🎓 who took a detour into language specialization 🇩🇪 and is now making her way back into the world of automation 🚀
+Hi, I'm Supraja, an Instrumentation & Control Engineer 🎓 who took a detour into language specialization 🇩🇪 and is now making her way back into the world of automation 🚀
 
 🔧 I'm currently focused on building hands-on projects in PLC programming and HMI design using **TwinCAT**, **RSLogix** and **CODESYS**, exploring control systems through code, logic, and a bit of visual flair 📊.
 
