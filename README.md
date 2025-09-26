@@ -10,7 +10,7 @@ Hi, I'm Supraja – an Instrumentation & Control Engineer 🎓 who took a detour
 
 🎓 Alongside, I'm completing Beckhoff’s official online certifications while applying the concepts in self-driven simulation projects 💡.
 
-🎯 Always learning, always building — more projects on the way!
+🎯 Always learning, always building. More projects on the way!
 
 🌐 Languages: English, Tamil, German, a bit of Hindi
 
@@ -31,11 +31,11 @@ Hi, I'm Supraja – an Instrumentation & Control Engineer 🎓 who took a detour
 
 - 👯 I’m looking to collaborate on small automation projects, control logic experiments, or HMI design ideas  
 - 🤔 I’m looking for help with exploring advanced PLC functions, safety logic, and real-world system integration  
-- 💬 Ask me about career transition stories, control systems — or just chat about books, anime, or the best Indian food 🍿📚🍥
+- 💬 Ask me about career transition stories, control systems or just chat about books, anime, or the best Indian food 🍿📚🍥
 
 🙌 _**Stay curious, keep building**_
 
-Whether you’re here to browse, brainstorm, or collaborate — welcome to my little corner of automation and ideas.
+Whether you’re here to browse, brainstorm, or collaborate - welcome to my little corner of automation and ideas.
 
 <div align="center">
   <a href="mailto:suprajaramkumar1995@gmail.com">
